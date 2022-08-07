@@ -1,5 +1,5 @@
 RAID = [
-    "Great project ,do u have own cex",
+    "when moon? ",
     "It is listed anywhere",
     "Wow super token",
     "How to buy this token",
